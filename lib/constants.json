@@ -1,0 +1,120 @@
+{
+    "seperators": [
+        "-", 
+        " ", 
+        "/", 
+        "." 
+    ],
+    "lang": {
+        "en":{
+            "days": [
+                { "long": "Sunday", "short": "Sun" },
+                { "long": "Monday", "short": "Mon" },
+                { "long": "Tuesday", "short": "Tue" },
+                { "long": "Wednesday", "short": "Wed" },
+                { "long": "Thursday", "short": "Thu" },
+                { "long": "Friday", "short": "Fri" },
+                { "long": "Saturday", "short": "Sat" }
+            ],
+            "months" : [
+                { "long": "January" , "short": "Jan" },
+                { "long": "February" , "short": "Feb" },
+                { "long": "March" , "short": "Mar" },
+                { "long": "April" , "short": "Apr" },
+                { "long": "May" , "short": "May" },
+                { "long": "June" , "short": "Jun" },
+                { "long": "July" , "short": "Jul" },
+                { "long": "August" , "short": "Aug" },
+                { "long": "September" , "short": "Sep" },
+                { "long": "October" , "short": "Oct" },
+                { "long": "November" , "short": "Nov" },
+                { "long": "December" , "short": "Dec" }
+            ]
+        },
+        "tr":{
+            "days": [
+                { "long": "Pazar", "short": "Paz" },
+                { "long": "Pazartesi", "short": "Pzt" },
+                { "long": "Salı", "short": "Sal" },
+                { "long": "Çarşamba", "short": "Çrş" },
+                { "long": "Perşembe", "short": "Per" },
+                { "long": "Cuma", "short": "Cum" },
+                { "long": "Cumartesi", "short": "Cmt" }
+            ],
+            "months" : [
+                { "long": "Ocak" , "short": "Oca" },
+                { "long": "Şubat" , "short": "Şub" },
+                { "long": "Mart" , "short": "Mar" },
+                { "long": "Nisan" , "short": "Nis" },
+                { "long": "Mayıs" , "short": "May" },
+                { "long": "Haziran" , "short": "Haz" },
+                { "long": "Temmuz" , "short": "Tem" },
+                { "long": "Ağustos" , "short": "Ağu" },
+                { "long": "Eylül" , "short": "Eyl" },
+                { "long": "Ekim" , "short": "Eki" },
+                { "long": "Kasım" , "short": "Kas" },
+                { "long": "Aralık" , "short": "Ara" }
+            ]
+        },
+        "jp": {
+            "days": [
+                { "long": "日曜日", "short": "日" },
+                { "long": "月曜日", "short": "月" },
+                { "long": "火曜日", "short": "火" },
+                { "long": "水曜日", "short": "水" },
+                { "long": "木曜日", "short": "木" },
+                { "long": "金曜日", "short": "金" },
+                { "long": "土曜日", "short": "土" }
+            ],
+            "months" : [
+                { "long": "一月" , "short": "一月" },
+                { "long": "二月" , "short": "二月" },
+                { "long": "三月" , "short": "三月" },
+                { "long": "四月" , "short": "四月" },
+                { "long": "五月" , "short": "五月" },
+                { "long": "六月" , "short": "六月" },
+                { "long": "七月" , "short": "七月" },
+                { "long": "八月" , "short": "八月" },
+                { "long": "九月" , "short": "九月" },
+                { "long": "十月" , "short": "十月" },
+                { "long": "十一月" , "short": "十一月" },
+                { "long": "十二月" , "short": "十二月" }
+            ]
+        },
+        "kr": {
+            "days": [
+                { "long": "일요일", "short": "일" },
+                { "long": "월요일", "short": "월" },
+                { "long": "화요일", "short": "화" },
+                { "long": "수요일", "short": "수" },
+                { "long": "목요일", "short": "목" },
+                { "long": "금요일", "short": "금" },
+                { "long": "토요일", "short": "토" }
+            ],
+            "months" : [
+                { "long": "일월" , "short": "일월" },
+                { "long": "이월" , "short": "이월" },
+                { "long": "삼월" , "short": "삼월" },
+                { "long": "사월" , "short": "사월" },
+                { "long": "오월" , "short": "오월" },
+                { "long": "유월" , "short": "유월" },
+                { "long": "칠월" , "short": "칠월" },
+                { "long": "팔월" , "short": "팔월" },
+                { "long": "구월" , "short": "구월" },
+                { "long": "시월" , "short": "시월" },
+                { "long": "십일월" , "short": "십일월" },
+                { "long": "십이월" , "short": "십이월" }
+            ]
+        }
+    },
+    "time": {
+        "ms": 1000,
+        "sec": 1,
+        "min": 60,
+        "hour": 3600,
+        "day": 86400,
+        "week": 604800,
+        "month": 2592000,
+        "year": 31104000
+    }
+}
