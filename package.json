@@ -1,0 +1,30 @@
+{
+  "name": "tempus",
+  "version": "1.0.0",
+  "description": "Date Library for Javascript",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jexulie/Tempus.git"
+  },
+  "keywords": [
+    "Date",
+    "Time",
+    "Js",
+    "Javascript",
+    "tempus"
+  ],
+  "author": "Jexulie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jexulie/Tempus/issues"
+  },
+  "homepage": "https://github.com/Jexulie/Tempus#readme"
+}
